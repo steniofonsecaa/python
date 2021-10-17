@@ -1,2 +1,4 @@
-# Python
--- Códigos na linguagem Python durante meus estudos
+# Códigos em Python de estudos e desafios
+
+## Desafios da URI
+## Estruturas de dados
