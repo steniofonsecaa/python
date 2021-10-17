@@ -1,2 +1,2 @@
-# python
-Códigos na linguagem Python durante meus estudos
+# Python
+-- Códigos na linguagem Python durante meus estudos
